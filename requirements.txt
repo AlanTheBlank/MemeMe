@@ -17,6 +17,6 @@ pytesseract==0.3.4
 requests==2.23.0
 soupsieve==2.0.1
 urllib3==1.25.9
-websockets==8.1
+websockets==9.1
 wget==3.2
 yarl==1.4.2
